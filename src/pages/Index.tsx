@@ -105,9 +105,9 @@ const Index = () => {
                   </a>
                 </Button>
                 <Button size="lg" variant="outline" className="text-lg" asChild>
-                  <a href="tel:+79991234567">
+                  <a href="tel:+79174105886">
                     <Icon name="Phone" size={20} className="mr-2" />
-                    +7 (999) 123-45-67
+                    +7 (917) 410-58-86
                   </a>
                 </Button>
               </div>
@@ -284,8 +284,8 @@ const Index = () => {
                   <Icon name="Phone" className="text-primary" size={32} />
                 </div>
                 <h3 className="font-bold text-lg mb-2">Телефон</h3>
-                <a href="tel:+79991234567" className="text-primary hover:underline">
-                  +7 (999) 123-45-67
+                <a href="tel:+79174105886" className="text-primary hover:underline">
+                  +7 (917) 410-58-86
                 </a>
               </CardContent>
             </Card>
